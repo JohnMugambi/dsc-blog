@@ -6,6 +6,6 @@ from .models import Blog
 
 
 def home(request):
-    blogs = Blog.objects.filter(name='1st Blog')
-    q = blogs.query
-    return HttpResponse(q)
+    blogs = Blog.objects.all
+    #q = blogs.query
+    return HttpResponse(blogs)
