@@ -8,7 +8,6 @@
 
 # Table-of-contents
 
-- [Building a Blog Application with Django](#Building a Blog Application with Django)
 - [Why use Django](#Why-Use-Django)
   - [Topics](#Topics)
 - [Build Status](#Build-status)
@@ -36,13 +35,13 @@ Django also includes prevention of common attacks like Cross-site request forger
 The following topics are covered through out the development of this project:
 
 - Django
-  Installing Django
-  Defining Models
-  Configuring the Auto-Admin
-  Writing Views
-  Defining URLs
-  Templating
-  Best practices: indentation, file naming conventions and directory structure
+  - Installing Django
+  - Defining Models
+  - Configuring the Auto-Admin
+  - Writing Views
+  - Defining URLs
+  - Templating
+  - Best practices: indentation, file naming conventions and directory structure
 - HTML, CSS, JS
 
 [(Back to top)](#table-of-contents)
@@ -94,7 +93,7 @@ To get started ensure that the below are completed:
 1. Ensure that python, pip and Virtualenv packages are installed on your local machine
 
 2. Clone the project from this repository
-   [Github link](https://github.com/JohnMugambi/dsc-blog.git)
+   [Github link](https://github.com/jkuatdsc/dsc-blog.git)
 
 3. Create a virtual python environment and activate it
    To create a virtual environment type the following in your terminal
@@ -126,8 +125,6 @@ To get started ensure that the below are completed:
 [(Back to top)](#table-of-contents)
 
 <!--A guideline on how to contribute-->
-
-[(Back to top)](#table-of-contents)
 
 # Contribute
 
